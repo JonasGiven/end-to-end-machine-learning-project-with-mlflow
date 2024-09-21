@@ -1,0 +1,16 @@
+#necessary packages
+pandas
+mlflow == 2.2.2
+notebook
+numpy
+sklearn
+matplotlib
+python-box==6.0.2
+pyYAML
+tqdm
+ensure==1.0.2
+joblib
+types-PyYAMLY
+Flask
+Flask-cors
+-e .  #it will look up into setup.py file
