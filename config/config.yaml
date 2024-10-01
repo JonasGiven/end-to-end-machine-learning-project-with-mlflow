@@ -1,0 +1,10 @@
+#When training pipelnes it will create an artifacts folder will save artifacts related to data edition, validation, model trainer.
+artifacts_root: artifacts
+
+
+data_ingestion:
+  root_dir: artifacts/data_ingestion
+  source_URL: https://github.com/entbappy/Branching-tutorial/raw/master/winequality-data.zip
+  #when file downloaded it will save on local file below. You can always change data url from here and will update everywhere.
+  local_data_file: artifacts/data_ingestion/data.zip   
+  unzip_dir: artifacts/data_ingestion
