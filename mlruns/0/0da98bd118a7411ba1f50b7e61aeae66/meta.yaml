@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jonas/end-to-end-machine-learning-project-with-mlflow/mlruns/0/0da98bd118a7411ba1f50b7e61aeae66/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0da98bd118a7411ba1f50b7e61aeae66
+run_name: bald-loon-871
+run_uuid: 0da98bd118a7411ba1f50b7e61aeae66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730479125120
+status: 1
+tags: []
+user_id: jonas
