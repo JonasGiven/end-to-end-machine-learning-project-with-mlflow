@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jonas/end-to-end-machine-learning-project-with-mlflow/mlruns/0/356578256958422984b001de6c22a885/artifacts
+end_time: 1730647345607
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 356578256958422984b001de6c22a885
+run_name: resilient-donkey-791
+run_uuid: 356578256958422984b001de6c22a885
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730647155156
+status: 3
+tags: []
+user_id: jonas

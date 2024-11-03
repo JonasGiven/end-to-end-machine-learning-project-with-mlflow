@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jonas/end-to-end-machine-learning-project-with-mlflow/mlruns/0/53eebd208b0c4433b1def09547ce1a25/artifacts
+end_time: 1730647345607
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 53eebd208b0c4433b1def09547ce1a25
+run_name: fearless-panda-106
+run_uuid: 53eebd208b0c4433b1def09547ce1a25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730647199238
+status: 3
+tags: []
+user_id: jonas
